@@ -1,6 +1,6 @@
 body{
 	text-align: center;
-	/*background-image:url("/Users/cloelemonier/Documents/Paul/Image/fond.jpg");*/
+	/**background-image:url("/Users/cloelemonier/Documents/Paul/Image/fond.jpg");**/
 	background-color: #463f32;
 	color: white;
 	}
@@ -13,8 +13,8 @@ body{
 }
 
 #text{
-	/*background-color: #C8AD7F;
-	background-image:url("/Users/cloelemonier/Documents/Paul/Image/imageFondDegrade.jpg");*/
+	/**background-color: #C8AD7F;**/
+	/**background-image:url("/Users/cloelemonier/Documents/Paul/Image/imageFondDegrade.jpg");**/
 }
 
 head{
