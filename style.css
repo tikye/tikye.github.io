@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	/*background-image:url("/Users/cloelemonier/Documents/Paul/Image/fond.jpg");*/
+	background-color: #463f32;
+	color: white;
+	}
+ 
+#nav li 
+{
+   display:inline;
+   padding:0;
+   margin:0;
+}
+
+#text{
+	/*background-color: #C8AD7F;
+	background-image:url("/Users/cloelemonier/Documents/Paul/Image/imageFondDegrade.jpg");*/
+}
+
+head{
+	position: fixed;
+}
+
+#reseaux{
+	text-align: right;
+}
+
